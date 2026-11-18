@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NIN",
+    "CDC",
+    "NIN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:light_gray_concrete"
+    },
+    "D": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:floor_equipment_room",
+    "count": 6
+  }
+}

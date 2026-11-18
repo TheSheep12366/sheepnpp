@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CKC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:black_concrete"
+    },
+    "K": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_graphite",
+    "count": 8
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CGC",
+    "GLG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:white_concrete"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "L": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:cc_light_white",
+    "count": 4
+  }
+}

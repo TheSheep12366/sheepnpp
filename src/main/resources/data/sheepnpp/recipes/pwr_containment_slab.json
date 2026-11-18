@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:pwr_containment"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:pwr_containment_slab",
+    "count": 6
+  }
+}

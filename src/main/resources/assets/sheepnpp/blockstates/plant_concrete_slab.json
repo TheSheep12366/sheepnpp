@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/plant_concrete_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/plant_concrete"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/plant_concrete_slab_top"
+    }
+  }
+}

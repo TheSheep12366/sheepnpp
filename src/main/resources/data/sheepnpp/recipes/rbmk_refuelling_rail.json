@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "IRI",
+    "I I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:rail"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_refuelling_rail",
+    "count": 4
+  }
+}

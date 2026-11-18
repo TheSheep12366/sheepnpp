@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "sheepnpp:block/plant_tray"
+    },
+    "facing=east": {
+      "model": "sheepnpp:block/plant_tray",
+      "x": 90,
+      "y": 270
+    },
+    "facing=north": {
+      "model": "sheepnpp:block/plant_tray",
+      "x": 270
+    },
+    "facing=south": {
+      "model": "sheepnpp:block/plant_tray",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sheepnpp:block/plant_tray",
+      "x": 180
+    },
+    "facing=west": {
+      "model": "sheepnpp:block/plant_tray",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

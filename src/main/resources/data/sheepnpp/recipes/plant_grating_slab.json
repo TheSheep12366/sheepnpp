@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:plant_grating"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:plant_grating_slab",
+    "count": 6
+  }
+}

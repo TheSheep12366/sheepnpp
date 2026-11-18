@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/rbmk_channel_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/rbmk_channel"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/rbmk_channel_slab_top"
+    }
+  }
+}

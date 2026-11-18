@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "sheepnpp:rbmk_shield"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_support_base",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/rbmk_steel_green_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/rbmk_steel_green"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/rbmk_steel_green_slab_top"
+    }
+  }
+}

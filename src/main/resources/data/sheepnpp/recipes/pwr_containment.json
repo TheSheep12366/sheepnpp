@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "IOI",
+    "CIC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:gray_concrete"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:pwr_containment",
+    "count": 8
+  }
+}

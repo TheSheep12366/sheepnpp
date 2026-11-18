@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:rbmk_shield"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_shield_stairs",
+    "count": 4
+  }
+}

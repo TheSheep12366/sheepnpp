@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "III",
+    "SIS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "sheepnpp:rbmk_shield"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_lower_bio_shield",
+    "count": 4
+  }
+}

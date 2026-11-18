@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/cc_floor_dark_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/cc_floor_dark"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/cc_floor_dark_slab_top"
+    }
+  }
+}

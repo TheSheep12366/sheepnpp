@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "sheepnpp:eo_wall_wood",
+    "sheepnpp:eo_wall_wood_slab",
+    "sheepnpp:eo_wall_wood_stairs"
+  ]
+}

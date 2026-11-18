@@ -1,0 +1,7 @@
+[
+  {"id":"rbmk_analog_console","name_zh":"RBMK 苏式模拟仪控台","name_en":"RBMK Analog Control Console","mount":"floor","bounds":[1,0,2,15,15,14],"tier":"STANDARD"},
+  {"id":"rbmk_channel_mimic_panel","name_zh":"RBMK 通道布置图屏","name_en":"RBMK Channel Mimic Panel","mount":"wall","bounds":[1,1,13,15,15,16],"tier":"STANDARD"},
+  {"id":"rbmk_radiation_monitor","name_zh":"RBMK 辐射监测箱","name_en":"RBMK Radiation Monitor","mount":"wall","bounds":[3,2,10,13,14,16],"tier":"STANDARD"},
+  {"id":"rbmk_fuel_channel_head","name_zh":"RBMK 燃料通道头","name_en":"RBMK Fuel Channel Head","mount":"floor","bounds":[2,0,2,14,8,14],"tier":"SHIELD"},
+  {"id":"rbmk_reactor_service_hatch","name_zh":"RBMK 反应堆检修舱盖","name_en":"RBMK Reactor Service Hatch","mount":"wall","bounds":[1,1,12,15,15,16],"tier":"REINFORCED"}
+]

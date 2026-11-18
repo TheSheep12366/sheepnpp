@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sheepnpp:block/rbmk_fuel_channel_head",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "sheepnpp:block/rbmk_fuel_channel_head",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sheepnpp:block/rbmk_fuel_channel_head",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sheepnpp:block/rbmk_fuel_channel_head",
+      "y": 270
+    }
+  }
+}

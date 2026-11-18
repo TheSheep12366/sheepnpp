@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "SSS",
+    "LLL"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "sheepnpp:rbmk_shield"
+    },
+    "L": {
+      "item": "sheepnpp:plant_lead"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_laminated_shield",
+    "count": 6
+  }
+}

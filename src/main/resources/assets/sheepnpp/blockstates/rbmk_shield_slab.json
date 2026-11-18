@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/rbmk_shield_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/rbmk_shield"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/rbmk_shield_slab_top"
+    }
+  }
+}

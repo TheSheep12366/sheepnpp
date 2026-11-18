@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:white_concrete"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:cc_ceiling",
+    "count": 6
+  }
+}

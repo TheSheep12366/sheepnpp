@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WCW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "C": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:eo_ceiling",
+    "count": 6
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "sheepnpp:block/plant_epoxy",
+    "top": "sheepnpp:block/plant_epoxy",
+    "side": "sheepnpp:block/plant_epoxy"
+  }
+}

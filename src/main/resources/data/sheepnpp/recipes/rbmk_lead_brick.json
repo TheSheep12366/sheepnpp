@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LL",
+    "LL"
+  ],
+  "key": {
+    "L": {
+      "item": "sheepnpp:plant_lead"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_lead_brick",
+    "count": 4
+  }
+}

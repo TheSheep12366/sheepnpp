@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:pwr_liner_white"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:pwr_liner_white_stairs",
+    "count": 4
+  }
+}

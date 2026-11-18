@@ -1,0 +1,1429 @@
+{
+ "plant_concrete": {
+  "palette": {
+   "A": "#8d8f91",
+   "B": "#909294",
+   "C": "#8a8c8e",
+   "D": "#747678",
+   "E": "#7f8183"
+  },
+  "rows": [
+   "AAACCCBCBCABCCCA",
+   "AABCCAAAABAACABB",
+   "ACAABABBBCAAAABC",
+   "ACACABBCABCABAAA",
+   "ABBADABCCBADBABC",
+   "BBABAABACCBBCBCA",
+   "ACBBCACABABCBABB",
+   "ABBAAACBBAAACAAA",
+   "EEEEEEEEEEEEEEEE",
+   "ABABBBACBAABCBAA",
+   "ABBAACCABABBACBB",
+   "CCABACACABBAAAAC",
+   "CAAADAABBBADACAB",
+   "AAAABAACBCBAAAAA",
+   "ACBABBACAACAABBA",
+   "AABAACBCCAAAAABC"
+  ]
+ },
+ "plant_concrete_painted": {
+  "palette": {
+   "A": "#b3b5b7",
+   "B": "#b6b8ba",
+   "C": "#b0b2b4",
+   "D": "#9fa1a3",
+   "E": "#c2c4c6"
+  },
+  "rows": [
+   "BACBACABAACAAAAA",
+   "AAAABAACACACABAA",
+   "BAADAAAACAAAAAAC",
+   "AABBABAAAAAABACA",
+   "ABAAAABAAACCACAA",
+   "AAAAAABAAACABCCA",
+   "ACCAAAAAABAAACAA",
+   "DDDDDDDDDDDDDDDD",
+   "EEEEEEEEEEEEEEEE",
+   "AACAAAAAAACAAAAB",
+   "AAAAAAAAAAAABAAA",
+   "CAAABAAAAAAAACAA",
+   "AAAAAAAAAAAADCBA",
+   "BAAAAAAACAAAAAAB",
+   "AAABAAAABCAABAAA",
+   "ACAAAAAACAAAACAA"
+  ]
+ },
+ "plant_lead": {
+  "palette": {
+   "A": "#586470",
+   "B": "#626e7a",
+   "C": "#4f5964",
+   "D": "#3d454e"
+  },
+  "rows": [
+   "ABBBBBBBBBBBBBBA",
+   "BABBAABAAAAAAAAC",
+   "BACABAABCAAAAAAC",
+   "BACDABBAAAACDABC",
+   "BAAAAAAAAAACAACC",
+   "BABAABCABAAACAAC",
+   "BAAAAACACBAABAAC",
+   "BAAAABAAABAAAAAC",
+   "BBAAAAAABACABBAC",
+   "BABAACAAAAACCACC",
+   "BCAAAAAAABBCAAAC",
+   "BAABAAAAAAAAAAAC",
+   "BAADAAAABAACDACC",
+   "BAAAAAABCABAABAC",
+   "BAABAAAAAAAACCCC",
+   "ACCCCCCCCCCCCCCA"
+  ]
+ },
+ "plant_hazard": {
+  "palette": {
+   "Y": "#e0b01f",
+   "K": "#1d1e20"
+  },
+  "rows": [
+   "YYYYKKKKYYYYKKKK",
+   "YYYKKKKYYYYKKKKY",
+   "YYKKKKYYYYKKKKYY",
+   "YKKKKYYYYKKKKYYY",
+   "KKKKYYYYKKKKYYYY",
+   "KKKYYYYKKKKYYYYK",
+   "KKYYYYKKKKYYYYKK",
+   "KYYYYKKKKYYYYKKK",
+   "YYYYKKKKYYYYKKKK",
+   "YYYKKKKYYYYKKKKY",
+   "YYKKKKYYYYKKKKYY",
+   "YKKKKYYYYKKKKYYY",
+   "KKKKYYYYKKKKYYYY",
+   "KKKYYYYKKKKYYYYK",
+   "KKYYYYKKKKYYYYKK",
+   "KYYYYKKKKYYYYKKK"
+  ]
+ },
+ "plant_grating": {
+  "palette": {
+   "A": "#6b7279",
+   "B": "#8b9299",
+   "D": "#33393f"
+  },
+  "rows": [
+   "ABBBABBBABBBABBB",
+   "A..DA..DA..DA..D",
+   "A..DA..DA..DA..D",
+   "ADDDADDDADDDADDD",
+   "ABBBABBBABBBABBB",
+   "A..DA..DA..DA..D",
+   "A..DA..DA..DA..D",
+   "ADDDADDDADDDADDD",
+   "ABBBABBBABBBABBB",
+   "A..DA..DA..DA..D",
+   "A..DA..DA..DA..D",
+   "ADDDADDDADDDADDD",
+   "ABBBABBBABBBABBB",
+   "A..DA..DA..DA..D",
+   "A..DA..DA..DA..D",
+   "ADDDADDDADDDADDD"
+  ]
+ },
+ "plant_epoxy": {
+  "palette": {
+   "A": "#76847a",
+   "B": "#808f85",
+   "C": "#727f76",
+   "D": "#6c786f"
+  },
+  "rows": [
+   "AAAAAAAAAACAACAA",
+   "AAAAAAAAACAAAAAA",
+   "AAAAAAAAAAAADAAA",
+   "AAAAABAACCAACCAA",
+   "AAACAABAACACAAAA",
+   "AAAAAAABAAAAAAAA",
+   "AAAAAAAABCAACCAA",
+   "AAAACCCACBACAAAA",
+   "AAAAACAAAAAAACCA",
+   "CAAAAAAAAAAAAAAA",
+   "CAAAAAAAACAACAAA",
+   "AADAAAAAAAAAAAAA",
+   "AAAAACAAAACAACCA",
+   "ACAAAADCAAAAAAAA",
+   "AAAACAAACAAAAAAA",
+   "CAAACAAAAAAAAAAA"
+  ]
+ },
+ "plant_ceiling": {
+  "palette": {
+   "A": "#dcdedf",
+   "B": "#eff0f1",
+   "C": "#c3c6c8",
+   "D": "#a6aaad",
+   "E": "#c3c6c8",
+   "F": "#a6aaad",
+   "G": "#eff0f1"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGBDAAAAAAGEEF",
+   "FEEGDDAAAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAAAAABDGEEF",
+   "FEEGAAAAAADDGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "plant_tray": {
+  "palette": {
+   "A": "#8d9399",
+   "B": "#b9bec3",
+   "C": "#7a8087",
+   "D": "#5a6066",
+   "E": "#9aa0a6",
+   "F": "#6c7278",
+   "G": "#b9bec3"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEG........GEEF",
+   "FEEGEEEEEEEEGEEF",
+   "FEEGCCCCCCCCGEEF",
+   "FEEG........GEEF",
+   "FEEG........GEEF",
+   "FEEGEEEEEEEEGEEF",
+   "FEEGCCCCCCCCGEEF",
+   "FEEG........GEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "plant_vent": {
+  "palette": {
+   "A": "#c3c6c9",
+   "B": "#dfe1e3",
+   "C": "#a2a6aa",
+   "D": "#7a7f84",
+   "E": "#b8bbbe",
+   "F": "#8b9095",
+   "G": "#e6e8ea"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGBBBBBBBBGEEF",
+   "FEEGDDDDDDDDGEEF",
+   "FEEGBBBBBBBBGEEF",
+   "FEEGDDDDDDDDGEEF",
+   "FEEGBBBBBBBBGEEF",
+   "FEEGDDDDDDDDGEEF",
+   "FEEGBBBBBBBBGEEF",
+   "FEEGDDDDDDDDGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "plant_trefoil": {
+  "palette": {
+   "A": "#e0b01f",
+   "B": "#f0c93a",
+   "C": "#c89a18",
+   "D": "#b0307a",
+   "E": "#c89a18",
+   "F": "#8a6c12",
+   "G": "#f0c93a"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGAADDDDAAGEEF",
+   "FEEGAADDDDAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGDDADDADDGEEF",
+   "FEEGDDADDADDGEEF",
+   "FEEGDDDAADDDGEEF",
+   "FEEGADDAADDAGEEF",
+   "FEEGAADAADAAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "rbmk_shield": {
+  "palette": {
+   "A": "#6a665f",
+   "B": "#6d6962",
+   "C": "#67635c",
+   "D": "#575450",
+   "E": "#7a766f",
+   "F": "#5e5a54"
+  },
+  "rows": [
+   "BCABABCFACBCAAAA",
+   "AACCBAAFCAEABACC",
+   "BCACAACFAAABBACC",
+   "ACECBCAFCAAABBDA",
+   "BBCACCBFCCAACACA",
+   "AACBACBFACCBBBBC",
+   "CBAABDCFCAAEBCCC",
+   "ABABAABFBCAAACAB",
+   "ADBAAAAFABAABCAA",
+   "BAAABBAFAACCBCAB",
+   "BBBCBAEFBABBDBCB",
+   "BBBABCBFACACBBBA",
+   "BCCBBBAFAAACBCCC",
+   "CCBABABFADBBAECB",
+   "AAACEABFAACAACCB",
+   "BABAABBFAAACBCCB"
+  ]
+ },
+ "rbmk_graphite": {
+  "palette": {
+   "A": "#252320",
+   "B": "#2a2824",
+   "C": "#211f1c",
+   "D": "#151412",
+   "E": "#4a463c",
+   "F": "#312e29"
+  },
+  "rows": [
+   "CCCACAADFACAABBA",
+   "BAAAAABDFACACCAC",
+   "CAACABADFBCEBAAA",
+   "AAAEACADFBACCBBA",
+   "AAAACAADFABCAAAB",
+   "CCACCABDFAABABBA",
+   "BAAACACDFABABCCA",
+   "DDDDDDDDDDDDDDDD",
+   "FFFFFFFDFFFFFFFF",
+   "AAEBBBADFCBBCACA",
+   "ABBCBBBDFCACAEAA",
+   "AAAACAADFCACBAAA",
+   "BACBCEBDFABAACCB",
+   "AAAAABBDFAEBAAAC",
+   "ACACAABDFCACCBCA",
+   "CAAAAAADFAAACAAC"
+  ]
+ },
+ "rbmk_steel_green": {
+  "palette": {
+   "A": "#65756a",
+   "B": "#6a7a6f",
+   "C": "#607065",
+   "D": "#46524a",
+   "E": "#76867b"
+  },
+  "rows": [
+   "CACBCBADEAAAAAAA",
+   "AAAAAACDEAACAAAA",
+   "ACAABAADEAAAAAAA",
+   "ACADCBCDEACADBBA",
+   "AAAAAAADEAAAABAA",
+   "AAAAAABDEAAABACC",
+   "AACAAAADEABCAAAC",
+   "CAAACABDEACACBAA",
+   "AAAAAAADEAAAABCA",
+   "AAAAAAADEACCBBAA",
+   "ABCCBACDEACBAAAA",
+   "AABACAADEBABAAAA",
+   "AAADAAADEAAADAAA",
+   "AAAAAAADEAABACAA",
+   "AAAAABADEABCAAAB",
+   "ACCAAAADEAAAACAB"
+  ]
+ },
+ "rbmk_channel": {
+  "palette": {
+   "A": "#767c82",
+   "B": "#7b8187",
+   "C": "#70767c",
+   "D": "#4a5056",
+   "E": "#5f656b",
+   "F": "#9aa0a6"
+  },
+  "rows": [
+   "AAAABAAAAACCCAAA",
+   "AADDDDABAADDDDBB",
+   "ADEEEEDBADEEEEDA",
+   "ADEFEEDAADEFEEDA",
+   "ADEEEEDAADEEEEDA",
+   "ADEEEEDAADEEEEDA",
+   "AADDDDCAAADDDDAC",
+   "AAAAAACACAAAAAAB",
+   "AAAABCAAABAAAABA",
+   "ABDDDDAAABDDDDAA",
+   "CDEEEEDBCDEEEEDA",
+   "ADEFEEDAADEFEEDA",
+   "ADEEEEDAADEEEEDA",
+   "CDEEEEDAADEEEEDA",
+   "AADDDDAAABDDDDAA",
+   "AAAAAACBACAACAAA"
+  ]
+ },
+ "rbmk_channel_cover": {
+  "palette": {
+   "A": "#70767c",
+   "B": "#9aa0a6",
+   "C": "#5f656b",
+   "D": "#4a5056",
+   "E": "#6a7076",
+   "F": "#4a5056",
+   "G": "#8f959b"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAADDDDAAGEEF",
+   "FEEGADCCCCDAGEEF",
+   "FEEGADCBCCDAGEEF",
+   "FEEGADCCCCDAGEEF",
+   "FEEGADCCCCDAGEEF",
+   "FEEGAADDDDAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "rbmk_panel_mint": {
+  "palette": {
+   "A": "#a8c3b3",
+   "B": "#bdd5c7",
+   "C": "#8fac9a",
+   "D": "#6c8a77",
+   "E": "#8fac9a",
+   "F": "#6c8a77",
+   "G": "#bdd5c7"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGADDDDDDAGEEF",
+   "FEEGABBBBBBAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "rbmk_upper_bio_shield": {
+  "palette": {
+   "A": "#7a8285",
+   "B": "#7d8588",
+   "C": "#777f82",
+   "D": "#4b5559",
+   "E": "#687477",
+   "F": "#9ba5a6"
+  },
+  "rows": [
+   "AABEACBBAACEBBAA",
+   "ACAEAAACBAAEAABA",
+   "CBDDDDAABADDDDAB",
+   "ADAAAADBADAAAADA",
+   "ADAFAADABDAFAADA",
+   "ADAAAADACDAAAADA",
+   "ADAAAADAADAAAADA",
+   "AADDDDBAABDDDDCA",
+   "AAAEAABABAAEAABB",
+   "BAAEABAACABEBAAA",
+   "CCDDDDAAACDDDDBB",
+   "BDAAAADABDAAAADA",
+   "CDAFAADABDAFAADB",
+   "CDAAAADABDAAAADA",
+   "ADAAAADAADAAAADA",
+   "CADDDDACABDDDDCA"
+  ]
+ },
+ "rbmk_lower_bio_shield": {
+  "palette": {
+   "A": "#6b7475",
+   "B": "#6e7778",
+   "C": "#687172",
+   "D": "#424c4d",
+   "E": "#566463",
+   "F": "#8b9895"
+  },
+  "rows": [
+   "BABAAAFEEEACAAAA",
+   "BBBAAAFEEEAAABAA",
+   "BAAABAFEEEAACACB",
+   "CAAABAFDEECAAAAA",
+   "AACACAFEEEABABBA",
+   "AAABBAFEEEACAAAA",
+   "FFFFFFFFFFFFFFFF",
+   "EEEDEEFEEEEEDEEE",
+   "EEEEEEFEEEEEEEEE",
+   "EEEEEEFEEEEEEEEE",
+   "AACBCCFEEEBBAACA",
+   "CACABCFEEEAAAAAA",
+   "AACAACFDEEACCAAC",
+   "ACCABAFEEEAACABA",
+   "AACBAAFEEEABAACA",
+   "BAACAAFEEEAACBAA"
+  ]
+ },
+ "rbmk_serpentinite_shield": {
+  "palette": {
+   "A": "#525e56",
+   "B": "#556159",
+   "C": "#4f5b53",
+   "D": "#48534c",
+   "E": "#606b60"
+  },
+  "rows": [
+   "AAABBAAAAAACAABB",
+   "AAACCAAABABACACA",
+   "ACBAAEACCBABAACA",
+   "CBDAABAAAABBAACC",
+   "ACAAAABBACDAAACC",
+   "BCCABAABAAAAAAAA",
+   "AAACACCBAAAAAACA",
+   "ACAABABCAABAECAA",
+   "BACACAAAAABAABBC",
+   "ABBAAADAACAABAAA",
+   "BAABABACAABCABAC",
+   "BBAEAAAACACAAAAB",
+   "ABABACCBACAABABA",
+   "AAAABACABAAAADAA",
+   "CAABDACAAEACBAAB",
+   "AAAAAAACBCCABBBA"
+  ]
+ },
+ "rbmk_borated_concrete": {
+  "palette": {
+   "A": "#898477",
+   "B": "#8c877a",
+   "C": "#868174",
+   "D": "#7e796d",
+   "E": "#938e80"
+  },
+  "rows": [
+   "AAAAABAAAABAAAAA",
+   "BAAAACABAAEAAABA",
+   "AABBAACAABAACCAA",
+   "AACBACADBCAACACC",
+   "BAAAECBACAAAAAAC",
+   "BCAAAAAAAAABBABA",
+   "CDAAACBAAAACAAEA",
+   "AABAABABBBCACCCA",
+   "CCBABAAACACBAAAA",
+   "AABCABACBAAAAABA",
+   "AAACBACACAAADCCB",
+   "BABAAAACEAAAACBA",
+   "AACBACAACAAACAAC",
+   "BBBACDCBAAAAABAA",
+   "AAEBCCAAAACAAAAB",
+   "AACAAAAACAAACACA"
+  ]
+ },
+ "rbmk_lead_brick": {
+  "palette": {
+   "A": "#586574",
+   "B": "#5b6877",
+   "C": "#556271",
+   "D": "#424e5d",
+   "E": "#6a7684"
+  },
+  "rows": [
+   "ACCADACAAAAABACA",
+   "ACAADAAABAAAAAAC",
+   "ACABDACAABBCACCA",
+   "DDDDDDDDDDDDDDDD",
+   "EEEEEEEEEEEEDEEE",
+   "BACAABABAAAADBBA",
+   "BAAAABACAAAADABB",
+   "BBAAAABAAAAADBAA",
+   "CBAAAAAAACCADAAA",
+   "ABAAACBAAACCDAAA",
+   "AAABAAACACAADBAA",
+   "DDDDDDDDDDDDDDDD",
+   "EEEEEEEEEEEEEEEE",
+   "CAAADACBACAACBAA",
+   "AABADABBAAAABAAA",
+   "AAAADBCCCAAAAAAA"
+  ]
+ },
+ "rbmk_laminated_shield": {
+  "palette": {
+   "A": "#7f8585",
+   "B": "#828888",
+   "C": "#7c8282",
+   "D": "#535e66",
+   "E": "#918b7d",
+   "F": "#a3acab"
+  },
+  "rows": [
+   "BAAAAAABCAAACCAB",
+   "ABBCBAABAABAAABA",
+   "AABBAAAABABAAAAC",
+   "DDDDDDDDDDDDDDDD",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF",
+   "ABACBAABAAAAAACA",
+   "ACBBAABBAABBACBB",
+   "ABCDCABAAAAADAAC",
+   "AAAAAAAACAAABCAA",
+   "AAAAABABBAAAAACA",
+   "DDDDDDDDDDDDDDDD",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF",
+   "AAAACABBCCAAAABB",
+   "AAACAAAAAAACCAAB"
+  ]
+ },
+ "rbmk_support_steel": {
+  "palette": {
+   "A": "#65796e",
+   "B": "#687c71",
+   "C": "#62766b",
+   "D": "#3e5349",
+   "E": "#53695e",
+   "F": "#859a8e"
+  },
+  "rows": [
+   "CBBFEDAAAAFEDABC",
+   "AAAFEDBAABFEDBAB",
+   "AAAFEDAAAAFEDAAA",
+   "AABFEDBAABFEDAAC",
+   "ACAFDDCCCCFEDCAA",
+   "ABAFEDAACCFEDCBC",
+   "BACFEDAABAFEDAAA",
+   "BAAFEDAAABFEDAAA",
+   "EEEEEEEEEEEEEEEE",
+   "AAAFEDAAAAFEDACA",
+   "AAAFEDACACFEDAAA",
+   "BABFEDAACCFEDAAB",
+   "AAAFEDACCAFDDACA",
+   "CABFEDCABAFEDAAA",
+   "BAAFEDAAACFEDABA",
+   "AAAFEDAABAFEDACA"
+  ]
+ },
+ "rbmk_support_base": {
+  "palette": {
+   "A": "#777d7d",
+   "B": "#7a8080",
+   "C": "#747a7a",
+   "D": "#4b5355",
+   "E": "#657071",
+   "F": "#99a3a1"
+  },
+  "rows": [
+   "AABAABBABBAACAAA",
+   "ACAABAAAAAAABABB",
+   "ABEEEEEEEEEEEEAA",
+   "CAEFDAABBBACFDCA",
+   "BAEDDACAACACDDBC",
+   "AAEABFFFFFFBCEAC",
+   "AAEAAEEEEEEAAEAA",
+   "BAEABEEEEEEACECA",
+   "AAEAAEEEEEEBAEBB",
+   "AAECAEEEEEEACEAC",
+   "ACEBBEEEEEEBAECC",
+   "CAEABCBBBAAAAECC",
+   "BCEFDCAAAABBFDAB",
+   "CAEDDEEEEEEEDDAA",
+   "AAACAACCCCABABBA",
+   "ABCBAAAAAAACAAAA"
+  ]
+ },
+ "rbmk_refuelling_rail": {
+  "palette": {
+   "A": "#6d777b",
+   "B": "#707a7e",
+   "C": "#6a7478",
+   "D": "#465357",
+   "E": "#818d90",
+   "F": "#a9b3b4"
+  },
+  "rows": [
+   "AABDFEABAACDFECA",
+   "ACADFEBAABADFEAA",
+   "ABADFEBBACADFEAB",
+   "CAADFEABAABDFEBA",
+   "EEEDFEEEEEEDFEEE",
+   "BCADFEAAACBDFEAA",
+   "BAADFEAACAADFEAA",
+   "ACADFEAABBCDFEAB",
+   "BABDFEABACBDFEAC",
+   "AACDFECAAACDFECA",
+   "ACADFECBAAADFEAA",
+   "BAADFEABBCADFECA",
+   "EEEDFEEEEEEDFEEE",
+   "CACDFECAAAADFEAB",
+   "BCADFEACBACDFEAA",
+   "AACDFEACBAADFEAA"
+  ]
+ },
+ "rbmk_crane_girder": {
+  "palette": {
+   "A": "#718175",
+   "B": "#748478",
+   "C": "#6e7e72",
+   "D": "#4b5b50",
+   "E": "#5c7062",
+   "F": "#92a18f"
+  },
+  "rows": [
+   "AAAAAAAAAAABCCBA",
+   "AAACABAACBBBACAB",
+   "AABABABABAAABAAC",
+   "FFFFDFFFFFFFFFFF",
+   "EEDEEDEEEEEEEDEE",
+   "AAAACCDACACBCBAB",
+   "BCBAACCDAAAAAAAC",
+   "ACABCAACDBCAAAAB",
+   "CCBACAACCDABBBCA",
+   "AAAAABACCADBAACA",
+   "BACABCBACACDACAB",
+   "FFFFFFFFFFFFFFFF",
+   "EEDEEEEEEEEEEDEE",
+   "ACCACCACAACAABAA",
+   "AAAAAACBBACAAACA",
+   "ABAACAAABAABBAAB"
+  ]
+ },
+ "pwr_containment": {
+  "palette": {
+   "A": "#969ea6",
+   "B": "#99a1a9",
+   "C": "#939ba3",
+   "D": "#8c949c"
+  },
+  "rows": [
+   "AAAAAAAAAABACABA",
+   "ABAAACBABAABAAAA",
+   "AABAABCBAAACCAAB",
+   "ACBCAAAAAABABAAA",
+   "ACAACAAAABAAABCC",
+   "ABAAACBBABCBAAAA",
+   "ABACBABAACBCAABA",
+   "BBBAABCACBABACAC",
+   "DDDDDDDDDDDDDDDD",
+   "AACCABAABAAACACA",
+   "AAABACAAACABACAA",
+   "CAABBAAAABAAAAAB",
+   "CCAAAACAAAAACAAA",
+   "ACCACAACACACAABA",
+   "ACBAAAACCCAAAABA",
+   "BBCABAABACAAAAAB"
+  ]
+ },
+ "pwr_liner": {
+  "palette": {
+   "A": "#b2bdc5",
+   "B": "#b5c0c8",
+   "C": "#afbac2",
+   "D": "#a4afb7",
+   "E": "#b9c4cc"
+  },
+  "rows": [
+   "BAAAAAADEAAAAAAC",
+   "AAAAABADEAABAABC",
+   "ACCAAAADEABAAACA",
+   "ACBBBAADEAAAAAAA",
+   "AAAAACADEBACBAAA",
+   "AAAABCADEBBBBCAA",
+   "BAAAACADECABBAAA",
+   "AAAACBADEAAAABAA",
+   "BCCBAABDEAAABACC",
+   "AAAAAAADEAAABAAA",
+   "CAABAACDEAAAAAAA",
+   "BAABBBBDEAAAAABA",
+   "AAABAAADEAAAAACA",
+   "CABAAAADEAABBBAA",
+   "AACABCBDEAAAABAA",
+   "AAAAAAADECABAACA"
+  ]
+ },
+ "pwr_liner_white": {
+  "palette": {
+   "A": "#deded6",
+   "B": "#e1e1d9",
+   "C": "#dbdbd3",
+   "D": "#d3d3cb"
+  },
+  "rows": [
+   "AAACAAADCBAAAACC",
+   "ACAAAAADCBAAAACA",
+   "AAAABAADAAAACCAC",
+   "AACAABBDAAAAAAAA",
+   "AAAAAAADAAAACBAA",
+   "AAAAAAADAACCAAAA",
+   "ACAAAAADAAABBAAC",
+   "CAAAAAADAACAAAAA",
+   "BAAABAADAAAAAAAA",
+   "AABAAAADAACAAAAA",
+   "AAAAABADAAAAAAAB",
+   "ACAAAAADACBAAAAB",
+   "AAABAAADAAAAAAAA",
+   "AAAAAAADAABACAAB",
+   "ABAAABCDAACBAAAA",
+   "ACAAAACDAAAAAABA"
+  ]
+ },
+ "pwr_deck": {
+  "palette": {
+   "A": "#687d8e",
+   "B": "#6b8091",
+   "C": "#657a8b",
+   "D": "#4f6272",
+   "E": "#7a8d9c"
+  },
+  "rows": [
+   "ACAAACAAABBACABA",
+   "CABAABACBBBACAAA",
+   "AABECCCCAAACEAAA",
+   "ABCDBAABBAAADBCA",
+   "AAAABAABABAABAAA",
+   "ACAAABACACBABBAA",
+   "CABABAAAABAAABAA",
+   "AAAAAABACAAAABAA",
+   "ACAABACACAACAAAA",
+   "AAAACAAABABABBAC",
+   "AAAAAAABBAABBBAB",
+   "CAAECAACBACAEAAB",
+   "AACDCABAACAADAAA",
+   "CACAAACABACAAAAA",
+   "AACABAACAAAACAAA",
+   "AAAAAAAAABACAAAC"
+  ]
+ },
+ "pwr_cladding": {
+  "palette": {
+   "A": "#b9c1c6",
+   "B": "#bcc4c9",
+   "C": "#b6bec3",
+   "D": "#a6aeb3",
+   "E": "#aeb6bb",
+   "F": "#949ca1",
+   "G": "#c9d1d6"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGABBABCAAGEEF",
+   "FEEGAACAAAAAGEEF",
+   "FEEGAAAAACAAGEEF",
+   "FEEGDDDDDDDDGEEF",
+   "FEEGBBBBBBBBGEEF",
+   "FEEGAABBABAAGEEF",
+   "FEEGCAAAABAAGEEF",
+   "FEEGAACAABBAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "pwr_panel_white": {
+  "palette": {
+   "A": "#e4e5e1",
+   "B": "#e7e8e4",
+   "C": "#e1e2de",
+   "D": "#c3c6c4",
+   "E": "#cfd2cf",
+   "F": "#afb4b1",
+   "G": "#eff0ec"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGAAACAAAAGEEF",
+   "FEEGAAADAAAAGEEF",
+   "FEEGAAADBAAAGEEF",
+   "FEEGAAADAAABGEEF",
+   "FEEGCBADAAACGEEF",
+   "FEEGAACDAAAAGEEF",
+   "FEEGAAADAAABGEEF",
+   "FEEGCCACAAAAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "cc_wall_white": {
+  "palette": {
+   "A": "#e3e3e3",
+   "B": "#e6e6e6",
+   "C": "#e0e0e0",
+   "D": "#d7d7d7",
+   "E": "#e7e7e7"
+  },
+  "rows": [
+   "EEEEEEEEEEEEEEEE",
+   "EAAAAAAAAAAAABAE",
+   "EAAACAAAAAAAAAAE",
+   "EAAACAAAAAAACAAE",
+   "EAAAAAACCAAAAAAE",
+   "EAAAAAAAAAAAACAE",
+   "EBBBAAAAAAAAAAAE",
+   "EAAACAAACCBAAAAE",
+   "EDDDDDDDDDDDDDDE",
+   "EAAACACCABAACAAE",
+   "EAAAAAAABAAAAAAE",
+   "EBACAABABAACAACE",
+   "EAAAAAABAAACAAAE",
+   "EAAAAAAAAAAACBAE",
+   "EACABCACACCCAAAE",
+   "EEEEEEEEEEEEEEEE"
+  ]
+ },
+ "cc_wall_grey": {
+  "palette": {
+   "A": "#b5b7b8",
+   "B": "#b8babb",
+   "C": "#b2b4b5",
+   "D": "#9fa1a2",
+   "E": "#abadae"
+  },
+  "rows": [
+   "BAAAAAAEAABAAAAC",
+   "AAAABAAEAABAAACA",
+   "AADAABDECADAAADB",
+   "AAAAAAAEAAAABAAB",
+   "AAAAAAAEAAAABABA",
+   "ABAAABCECAAAAAAA",
+   "CADABADEAADAAADB",
+   "AACAABCEAAACBAAB",
+   "AAAAAAAEBAAAAACA",
+   "AAAABAAEBACBBAAA",
+   "AADBAADEBADAAADB",
+   "AAAAAAAEABAAAABA",
+   "AAAAAAAEAAABACBA",
+   "AAAAAAAEACBAAACA",
+   "BADAACDEAADAAADB",
+   "AAACAACEAAAACBAA"
+  ]
+ },
+ "cc_wall_console": {
+  "palette": {
+   "A": "#45494c",
+   "B": "#484c4f",
+   "C": "#424649",
+   "D": "#383c3f",
+   "E": "#565a5d",
+   "F": "#739b82",
+   "G": "#b29b69"
+  },
+  "rows": [
+   "BBAAAAADAAAAAAAA",
+   "AAAAAACDAAACACAA",
+   "AAAAAACDAAAAAAAC",
+   "AAAABAADAAAACAAA",
+   "ACEEEEADAACAAAAA",
+   "AAAAAAADAAAACAAA",
+   "ACAAFAADAAAAAAAA",
+   "AAAAAAADACAAAAAA",
+   "DDDDDDDDDDDDDDDD",
+   "ACAAAAADAAAAAAAA",
+   "ACABAACDAAAAGAAA",
+   "CAAAAABDAAABABBA",
+   "AAAAABCDBAEEEEAA",
+   "ABAAAAADABAAAAAA",
+   "AAAAAAADAAAAAAAB",
+   "AACAAAADAAAACAAA"
+  ]
+ },
+ "cc_floor_dark": {
+  "palette": {
+   "A": "#55585c",
+   "B": "#585b5f",
+   "C": "#525559",
+   "D": "#4d5054",
+   "E": "#494c50"
+  },
+  "rows": [
+   "DDDDDDDDDDDDDDDD",
+   "DBAAAAAAAAAAAAAD",
+   "DBAAAAACAAAAACAD",
+   "DCCEAAACACBBEAAD",
+   "DAAAACACBCBBAAAD",
+   "DAACBAAAABAABABD",
+   "DAAABAAAAAAAAAAD",
+   "DCAACACAABAAACAD",
+   "DAAAAAAAAAAAAAAD",
+   "DACACAAAAACABBAD",
+   "DAAAAACAACAAAAAD",
+   "DAAAACABACAACABD",
+   "DACEAAAABBACEACD",
+   "DAAACCCAAAACAAAD",
+   "DAAAAAACCCAAAAAD",
+   "DDDDDDDDDDDDDDDD"
+  ]
+ },
+ "cc_floor_light": {
+  "palette": {
+   "A": "#bfc2c4",
+   "B": "#c2c5c7",
+   "C": "#bcbfc1",
+   "D": "#b7babc",
+   "E": "#b3b6b8"
+  },
+  "rows": [
+   "DDDDDDDDDDDDDDDD",
+   "DBBCAAABAAAACAAD",
+   "DBBBACAAAABCACAD",
+   "DACEAACAAAACEACD",
+   "DAAAAAACAABAAACD",
+   "DAAACCAACAAAAAAD",
+   "DAAABACAAAAAAAAD",
+   "DAAABBBAAABBBABD",
+   "DCAAAAACCAAAAABD",
+   "DAAAABBCAAAABBAD",
+   "DAAAAACAAAAAABCD",
+   "DAAAABCACAAACAAD",
+   "DBAEBCAAAABAEAAD",
+   "DCAABCAAABBCBAAD",
+   "DAACAAAAAABACACD",
+   "DDDDDDDDDDDDDDDD"
+  ]
+ },
+ "cc_light_white": {
+  "palette": {
+   "A": "#fcfcfc",
+   "B": "#ffffff",
+   "C": "#f9f9f9",
+   "D": "#f6f6f6"
+  },
+  "rows": [
+   "DDDDDDDDDDDDDDDD",
+   "DAAAAAAAABAAAAAD",
+   "DAAAAAAAAAAAAAAD",
+   "DAAACAABAAAAAAAD",
+   "DAAAAAAAAAAAAAAD",
+   "DAAACAAAAACAAAAD",
+   "DAAAAAAABAAAAAAD",
+   "DAAACAAAAAAAAACD",
+   "DAAABAAABBAAAAAD",
+   "DBAAAAAABAAAAAAD",
+   "DCAAAAABAAAAACAD",
+   "DAAAAAAAAAAAAAAD",
+   "DAAABCAAAAAAAAAD",
+   "DCAAAAAABAAAAAAD",
+   "DAAACAAAAAAAAAAD",
+   "DDDDDDDDDDDDDDDD"
+  ]
+ },
+ "cc_light_white_panel": {
+  "palette": {
+   "A": "#fcfcfc",
+   "B": "#ffffff",
+   "C": "#f9f9f9",
+   "D": "#eeeeee",
+   "E": "#e4e4e4",
+   "F": "#d6d6d6",
+   "G": "#f3f3f3"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAABAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAACAAAAGEEF",
+   "FEEGAACAAAAAGEEF",
+   "FEEGAACAAAAAGEEF",
+   "FEEGAAAAACAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "cc_ceiling": {
+  "palette": {
+   "A": "#e4e5e5",
+   "B": "#e7e8e8",
+   "C": "#e1e2e2",
+   "D": "#d0d1d1",
+   "E": "#d9dada",
+   "F": "#c6c7c7",
+   "G": "#eff0f0"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGAAAAAACCGEEF",
+   "FEEGADAAADCAGEEF",
+   "FEEGBAAAAAABGEEF",
+   "FEEGDDDDDDDDGEEF",
+   "FEEGAAAACBBBGEEF",
+   "FEEGADAAADAAGEEF",
+   "FEEGAAACAAAAGEEF",
+   "FEEGAAAAABAAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "eo_wall_beige": {
+  "palette": {
+   "A": "#e2dfd5",
+   "B": "#e5e2d8",
+   "C": "#dfdcd2",
+   "D": "#dedbd1"
+  },
+  "rows": [
+   "ABCBAAAABAAAAAAA",
+   "AAAACCABBAAABBAA",
+   "BAAAAAAAAADACABA",
+   "ABBABAABAAAAAAAC",
+   "AABAAABAAAACACAC",
+   "ABCDACAAAABAAAAA",
+   "BACCAAAAAAAABAAC",
+   "ABBAABAAAAACAAAC",
+   "CABAAAAAAAAAAACA",
+   "CAAAAAAAACAACACB",
+   "AABBBADCAAAAAACB",
+   "CACCABCBABACCACA",
+   "CAAAACAAAAAADACA",
+   "BAAAAAAAAACBBAAA",
+   "AAABCBACABAACBAB",
+   "AAAACACBAAACAAAA"
+  ]
+ },
+ "eo_wall_wood": {
+  "palette": {
+   "A": "#c7b89e",
+   "B": "#cabba1",
+   "C": "#c4b59b",
+   "D": "#bbac92",
+   "E": "#c1b298",
+   "F": "#cdbea4"
+  },
+  "rows": [
+   "AAADAAAAAAADAABA",
+   "AACDAAAAAAADAACA",
+   "BEADAAABAAADAACA",
+   "AEADAAFAEAADACAC",
+   "AEADBBFBEBADAAAA",
+   "AEADAAFAEAADAAFB",
+   "ACADAAAAEAADBAFA",
+   "ACADACAAEABDAAFA",
+   "ACADAAAAAAADAABA",
+   "AAFDCEAAAAADACAC",
+   "BAFDAECAAABDAEAA",
+   "AAFDCEACAAADAEBA",
+   "AAADAEABBAFDAEAC",
+   "AACDAAAAAAFDAAAB",
+   "ACADAAABAAFDAAAB",
+   "AAADAAAAAAADACAA"
+  ]
+ },
+ "eo_floor_carpet": {
+  "palette": {
+   "A": "#87949e",
+   "B": "#8a97a1",
+   "C": "#84919b",
+   "D": "#83909a"
+  },
+  "rows": [
+   "ACCAACCBAABBBACA",
+   "BBBBBBBCACACBCAB",
+   "BBBBAAABBAACAACB",
+   "AADABACACCCABACB",
+   "BACAAACCAAAAAACA",
+   "CAABCBCACABBACAA",
+   "BBABCABABDABBBAC",
+   "BBAAABCAABBBCAAC",
+   "BABBABABAACBCCAC",
+   "ABBCCAACCCABBAAA",
+   "CAABBCBACABBBDAA",
+   "ABABBCBBBBCABACB",
+   "BAACADBABBACABAA",
+   "AABAACABAAACABCC",
+   "AAAAAABAAABAACAA",
+   "CABBCABCCAAAAAAC"
+  ]
+ },
+ "eo_floor_tile": {
+  "palette": {
+   "A": "#d2d3cf",
+   "B": "#d5d6d2",
+   "C": "#cfd0cc",
+   "D": "#c8c9c5"
+  },
+  "rows": [
+   "DDDDDDDDDDDDDDDD",
+   "DAAAAAABCAABBACD",
+   "DAAACCAAABAAAAAD",
+   "DAAAAAAAAAACAAAD",
+   "DCAAAAAACAAAAAAD",
+   "DAAAAAAAAACAAAAD",
+   "DAAAAAAAAABAAAAD",
+   "DAAAAAABAAAACAAD",
+   "DBAAABAAAAAAAAAD",
+   "DBAAABCAAAAAAAAD",
+   "DAAAAAAAAAABAAAD",
+   "DACAAAAAAAAAAACD",
+   "DAAACBACCAAAAAAD",
+   "DAAAAAACAAAAAAAD",
+   "DAAAABAACAAAAAAD",
+   "DDDDDDDDDDDDDDDD"
+  ]
+ },
+ "eo_ceiling": {
+  "palette": {
+   "A": "#e6e4dd",
+   "B": "#e9e7e0",
+   "C": "#e3e1da",
+   "D": "#d6d4cd",
+   "E": "#dcdad3",
+   "F": "#cac8c1",
+   "G": "#f0eee7"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGABADCAAAGEEF",
+   "FEEGACADACAAGEEF",
+   "FEEGBAADACABGEEF",
+   "FEEGACADCABCGEEF",
+   "FEEGAAADAABAGEEF",
+   "FEEGAACDACACGEEF",
+   "FEEGAAADACCAGEEF",
+   "FEEGCAADBABAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "eo_light_panel": {
+  "palette": {
+   "A": "#fcf5e5",
+   "B": "#fff8e8",
+   "C": "#f9f2e2",
+   "D": "#ece5d5",
+   "E": "#e4e0d6",
+   "F": "#d4d0c6",
+   "G": "#f3efe5"
+  },
+  "rows": [
+   "FFFFFFFFFFFFFFFF",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "GGGGGGGGGGGGGGGG",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAABAAAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "FEEGAAACAAAAGEEF",
+   "FEEGAACAAAAAGEEF",
+   "FEEGAACAAAAAGEEF",
+   "FEEGAAAAACAAGEEF",
+   "FEEGAAAAAAAAGEEF",
+   "GGGGGGGGGGGGGGGG",
+   "EEEEEEEEEEEEEEEE",
+   "EEEEEEEEEEEEEEEE",
+   "FFFFFFFFFFFFFFFF"
+  ]
+ },
+ "floor_heavy_load": {
+  "palette": {
+   "A": "#737b80",
+   "B": "#767e83",
+   "C": "#70787d",
+   "D": "#596268",
+   "E": "#879196",
+   "F": "#626c72"
+  },
+  "rows": [
+   "AAADEAAAACADEAAA",
+   "ACADEAAAAAADEAAA",
+   "BAADEBAAABADEAAA",
+   "AAFDEAAAAAFDEABA",
+   "AAADECBAAABDEABA",
+   "AAADEACACCADEACA",
+   "ACCDEAAACAADEAAA",
+   "CAADEBAAAABDEABA",
+   "DDDDDDDDDDDDDDDD",
+   "CACDECAACAADEAAA",
+   "CACDEABAAACDEBAA",
+   "CAADEBAABAADEAAA",
+   "AAFDEAAACAFDEAAA",
+   "AAADEACBAAADEAAA",
+   "ABADEBCABAADEAAA",
+   "BAADEBACABADEABA"
+  ]
+ },
+ "floor_turbine_hall": {
+  "palette": {
+   "A": "#6b7f8d",
+   "B": "#6e8290",
+   "C": "#687c8a",
+   "D": "#596d7b",
+   "E": "#8294a0"
+  },
+  "rows": [
+   "AAAAAAAAAAACAAAA",
+   "AAACABBCABAAABBA",
+   "BAEEEECCCAEEEEBC",
+   "AADDDDBAAADDDDAA",
+   "ACAAAAAACAAAAAAB",
+   "AAAAACAACCACABCB",
+   "AAEEEEABCAEEEEAA",
+   "BCDDDDAAAADDDDAA",
+   "AACAACAAAAACBBAC",
+   "AAAAAAAACCAAABAA",
+   "AAEEEECAAAEEEEAA",
+   "AADDDDABCADDDDAA",
+   "ABAAABAAAAACAACA",
+   "BAACAAAABABAAAAC",
+   "AAEEEEBAABEEEEAA",
+   "BBDDDDAAAADDDDAA"
+  ]
+ },
+ "floor_equipment_room": {
+  "palette": {
+   "A": "#b5bdc0",
+   "B": "#b8c0c3",
+   "C": "#b2babd",
+   "D": "#9ca6ab",
+   "E": "#869298",
+   "F": "#6f8f9e"
+  },
+  "rows": [
+   "ABAAAACABAAAABAA",
+   "ABAAAAACBBACBACA",
+   "BADDDDDDDDDDDDAA",
+   "CADECCAFAAAAEDAA",
+   "BADDAAAFAABBDDAA",
+   "AADBBAAFAAACCDAA",
+   "AADBAAAFCAAACDAA",
+   "CADACCBFCCAABDAA",
+   "AADAAABFABAAADCC",
+   "AADBCAAFAAAAADAC",
+   "CADAAABFABAABDAA",
+   "AADACAAFAAAAADAC",
+   "BCDEAAAFAAAAEDAA",
+   "ABDDDDDDDDDDDDAA",
+   "AAAAAAAAAABCAAAA",
+   "ACBBAAABAABAAACA"
+  ]
+ },
+ "floor_maintenance_tread": {
+  "palette": {
+   "A": "#858c90",
+   "B": "#888f93",
+   "C": "#82898d",
+   "D": "#737c81",
+   "E": "#9aa3a8"
+  },
+  "rows": [
+   "BBCAAAAAAABAACAA",
+   "AECABACACEBAAAAB",
+   "ADECCCAEADEAAACE",
+   "CADEBBEDAADEAAED",
+   "ABADCEDAAAADCEDA",
+   "AACAADAACABACDAA",
+   "AAACBAAAAAAAAAAA",
+   "BCAABCCAABAAAAAA",
+   "AACAAAAAAAAAAAAA",
+   "AEAAAABCCEABAAAB",
+   "BDEAAAAEADEAAAAE",
+   "AADEAAEDACDEBAED",
+   "AAADCEDAAAADAEDC",
+   "AACAADCCAABAADAA",
+   "AACAAAABABCAAAAA",
+   "AAAABBAAABAAAAAA"
+  ]
+ },
+ "floor_decontamination_ceramic": {
+  "palette": {
+   "A": "#c5d9d7",
+   "B": "#c8dcda",
+   "C": "#c2d6d4",
+   "D": "#b1c5c3"
+  },
+  "rows": [
+   "ACABAAADAACAAAAA",
+   "CAACAACDABCAAAAA",
+   "AAAABAADAAAAABAA",
+   "CCAAAAADABABAAAA",
+   "ACBCAAADAACAABBA",
+   "AAABAAADAABAAABC",
+   "BBBBBBBBBBBBBBBB",
+   "DDDDDDDDDDDDDDDD",
+   "BAAAACADAAAABAAA",
+   "ACAAAAADACAAAAAA",
+   "AAAACAADAAAAABAA",
+   "AAAACACDBAAABAAA",
+   "AABAAAADAAAAAAAA",
+   "CAACAAADAAAAAAAA",
+   "ABAAAAADAAAAACCA",
+   "AABAAAADCAAAAAAA"
+  ]
+ },
+ "particle_chip": {
+  "palette": {
+   "A": "#cfcfcc",
+   "B": "#9a9a97",
+   "C": "#6b6b68"
+  },
+  "rows": [
+   "................",
+   "................",
+   "................",
+   "................",
+   "................",
+   "................",
+   "......AABB......",
+   "......ABBC......",
+   "......BBCC......",
+   "......CCCC......",
+   "................",
+   "................",
+   "................",
+   "................",
+   "................",
+   "................"
+  ]
+ }
+}

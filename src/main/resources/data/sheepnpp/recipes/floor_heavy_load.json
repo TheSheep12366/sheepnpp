@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "CCC",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    },
+    "C": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:floor_heavy_load",
+    "count": 6
+  }
+}

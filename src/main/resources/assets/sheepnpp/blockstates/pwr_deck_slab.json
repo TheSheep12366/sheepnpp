@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/pwr_deck_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/pwr_deck"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/pwr_deck_slab_top"
+    }
+  }
+}

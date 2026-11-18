@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "sheepnpp:block/plant_concrete",
+    "top": "sheepnpp:block/plant_concrete",
+    "side": "sheepnpp:block/plant_concrete"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:plant_concrete"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:plant_concrete_stairs",
+    "count": 4
+  }
+}

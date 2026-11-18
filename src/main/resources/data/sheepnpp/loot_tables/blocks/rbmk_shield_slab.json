@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sheepnpp:rbmk_shield_slab",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2.0,
+              "add": false,
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "sheepnpp:rbmk_shield_slab",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

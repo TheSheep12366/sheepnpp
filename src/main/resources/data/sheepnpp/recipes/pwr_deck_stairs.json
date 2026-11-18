@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:pwr_deck"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:pwr_deck_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/eo_wall_wood_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/eo_wall_wood"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/eo_wall_wood_slab_top"
+    }
+  }
+}

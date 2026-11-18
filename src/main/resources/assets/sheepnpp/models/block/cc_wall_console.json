@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sheepnpp:block/cc_wall_console"
+  }
+}

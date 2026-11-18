@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "sheepnpp:block/pwr_containment",
+    "top": "sheepnpp:block/pwr_containment",
+    "side": "sheepnpp:block/pwr_containment"
+  }
+}

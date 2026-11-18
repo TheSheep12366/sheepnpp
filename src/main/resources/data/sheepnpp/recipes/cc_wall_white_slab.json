@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:cc_wall_white"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:cc_wall_white_slab",
+    "count": 6
+  }
+}

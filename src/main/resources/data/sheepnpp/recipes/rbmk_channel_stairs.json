@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:rbmk_channel"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_channel_stairs",
+    "count": 4
+  }
+}

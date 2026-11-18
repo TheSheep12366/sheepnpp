@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/pwr_containment_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/pwr_containment"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/pwr_containment_slab_top"
+    }
+  }
+}

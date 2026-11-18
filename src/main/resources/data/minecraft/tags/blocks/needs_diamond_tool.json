@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "sheepnpp:pwr_containment",
+    "sheepnpp:pwr_containment_slab",
+    "sheepnpp:pwr_containment_stairs",
+    "sheepnpp:rbmk_laminated_shield",
+    "sheepnpp:rbmk_lower_bio_shield",
+    "sheepnpp:rbmk_shield",
+    "sheepnpp:rbmk_shield_slab",
+    "sheepnpp:rbmk_shield_stairs",
+    "sheepnpp:rbmk_support_steel",
+    "sheepnpp:rbmk_upper_bio_shield"
+  ]
+}

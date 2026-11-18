@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "sheepnpp:floor_heavy_load",
+    "sheepnpp:plant_concrete",
+    "sheepnpp:plant_concrete_slab",
+    "sheepnpp:plant_concrete_stairs",
+    "sheepnpp:plant_lead",
+    "sheepnpp:plant_lead_slab",
+    "sheepnpp:plant_lead_stairs",
+    "sheepnpp:rbmk_borated_concrete",
+    "sheepnpp:rbmk_fuel_channel_head",
+    "sheepnpp:rbmk_graphite",
+    "sheepnpp:rbmk_graphite_slab",
+    "sheepnpp:rbmk_graphite_stairs",
+    "sheepnpp:rbmk_refuelling_rail",
+    "sheepnpp:rbmk_serpentinite_shield",
+    "sheepnpp:rbmk_support_base"
+  ]
+}

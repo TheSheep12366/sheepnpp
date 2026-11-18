@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "sheepnpp:block/cc_wall_white",
+    "top": "sheepnpp:block/cc_wall_white",
+    "side": "sheepnpp:block/cc_wall_white"
+  }
+}

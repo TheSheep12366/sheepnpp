@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/eo_wall_beige_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/eo_wall_beige"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/eo_wall_beige_slab_top"
+    }
+  }
+}

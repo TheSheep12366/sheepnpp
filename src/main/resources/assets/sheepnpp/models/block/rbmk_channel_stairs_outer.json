@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "sheepnpp:block/rbmk_channel",
+    "top": "sheepnpp:block/rbmk_channel",
+    "side": "sheepnpp:block/rbmk_channel"
+  }
+}

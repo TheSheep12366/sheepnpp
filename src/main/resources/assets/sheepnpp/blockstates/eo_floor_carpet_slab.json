@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/eo_floor_carpet_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/eo_floor_carpet"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/eo_floor_carpet_slab_top"
+    }
+  }
+}

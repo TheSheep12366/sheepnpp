@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "sheepnpp:block/pwr_panel_white"
+    },
+    "facing=east": {
+      "model": "sheepnpp:block/pwr_panel_white",
+      "x": 90,
+      "y": 270
+    },
+    "facing=north": {
+      "model": "sheepnpp:block/pwr_panel_white",
+      "x": 270
+    },
+    "facing=south": {
+      "model": "sheepnpp:block/pwr_panel_white",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sheepnpp:block/pwr_panel_white",
+      "x": 180
+    },
+    "facing=west": {
+      "model": "sheepnpp:block/pwr_panel_white",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

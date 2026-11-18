@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "sheepnpp:block/plant_grating",
+    "top": "sheepnpp:block/plant_grating",
+    "side": "sheepnpp:block/plant_grating"
+  }
+}

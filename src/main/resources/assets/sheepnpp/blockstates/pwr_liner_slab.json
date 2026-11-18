@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/pwr_liner_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/pwr_liner"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/pwr_liner_slab_top"
+    }
+  }
+}

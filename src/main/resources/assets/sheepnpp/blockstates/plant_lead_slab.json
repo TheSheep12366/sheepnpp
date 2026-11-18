@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/plant_lead_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/plant_lead"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/plant_lead_slab_top"
+    }
+  }
+}

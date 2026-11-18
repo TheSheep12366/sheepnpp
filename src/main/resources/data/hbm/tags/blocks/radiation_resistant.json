@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "sheepnpp:cc_wall_console",
+    "sheepnpp:cc_wall_grey",
+    "sheepnpp:cc_wall_white",
+    "sheepnpp:plant_concrete",
+    "sheepnpp:plant_concrete_painted",
+    "sheepnpp:plant_lead",
+    "sheepnpp:pwr_containment",
+    "sheepnpp:pwr_liner",
+    "sheepnpp:pwr_liner_white",
+    "sheepnpp:rbmk_borated_concrete",
+    "sheepnpp:rbmk_channel",
+    "sheepnpp:rbmk_graphite",
+    "sheepnpp:rbmk_laminated_shield",
+    "sheepnpp:rbmk_lead_brick",
+    "sheepnpp:rbmk_lower_bio_shield",
+    "sheepnpp:rbmk_serpentinite_shield",
+    "sheepnpp:rbmk_shield",
+    "sheepnpp:rbmk_steel_green",
+    "sheepnpp:rbmk_upper_bio_shield"
+  ]
+}

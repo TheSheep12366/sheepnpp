@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "sheepnpp:block/eo_floor_carpet",
+    "top": "sheepnpp:block/eo_floor_carpet",
+    "side": "sheepnpp:block/eo_floor_carpet"
+  }
+}

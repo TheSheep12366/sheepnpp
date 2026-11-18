@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sheepnpp:cc_light_white"
+    }
+  ],
+  "result": {
+    "item": "sheepnpp:cc_light_white_panel",
+    "count": 4
+  }
+}

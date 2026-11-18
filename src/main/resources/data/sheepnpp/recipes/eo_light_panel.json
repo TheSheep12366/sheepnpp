@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "WLW"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": {
+      "item": "minecraft:white_concrete"
+    },
+    "L": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:eo_light_panel",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:cc_wall_grey"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:cc_wall_grey_stairs",
+    "count": 4
+  }
+}

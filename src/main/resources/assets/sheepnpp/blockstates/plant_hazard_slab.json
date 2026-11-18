@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sheepnpp:block/plant_hazard_slab"
+    },
+    "type=double": {
+      "model": "sheepnpp:block/plant_hazard"
+    },
+    "type=top": {
+      "model": "sheepnpp:block/plant_hazard_slab_top"
+    }
+  }
+}

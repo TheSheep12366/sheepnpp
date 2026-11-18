@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:rbmk_steel_green"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_steel_green_stairs",
+    "count": 4
+  }
+}

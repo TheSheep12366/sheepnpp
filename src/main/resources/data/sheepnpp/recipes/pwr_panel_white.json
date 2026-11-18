@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sheepnpp:pwr_liner_white"
+    }
+  ],
+  "result": {
+    "item": "sheepnpp:pwr_panel_white",
+    "count": 4
+  }
+}

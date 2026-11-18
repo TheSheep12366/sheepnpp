@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "DCD",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "D": {
+      "item": "minecraft:cyan_dye"
+    },
+    "C": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:floor_decontamination_ceramic",
+    "count": 8
+  }
+}

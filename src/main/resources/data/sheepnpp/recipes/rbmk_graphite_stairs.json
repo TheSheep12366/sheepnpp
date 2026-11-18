@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "sheepnpp:rbmk_graphite"
+    }
+  },
+  "result": {
+    "item": "sheepnpp:rbmk_graphite_stairs",
+    "count": 4
+  }
+}

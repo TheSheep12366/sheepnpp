@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "sheepnpp:block/rbmk_channel_cover"
+    },
+    "facing=east": {
+      "model": "sheepnpp:block/rbmk_channel_cover",
+      "x": 90,
+      "y": 270
+    },
+    "facing=north": {
+      "model": "sheepnpp:block/rbmk_channel_cover",
+      "x": 270
+    },
+    "facing=south": {
+      "model": "sheepnpp:block/rbmk_channel_cover",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sheepnpp:block/rbmk_channel_cover",
+      "x": 180
+    },
+    "facing=west": {
+      "model": "sheepnpp:block/rbmk_channel_cover",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

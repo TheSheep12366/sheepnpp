@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sheepnpp:rbmk_channel"
+    }
+  ],
+  "result": {
+    "item": "sheepnpp:rbmk_channel_cover",
+    "count": 4
+  }
+}

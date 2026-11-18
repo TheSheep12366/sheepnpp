@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "sheepnpp:block/pwr_liner_white",
+    "top": "sheepnpp:block/pwr_liner_white",
+    "side": "sheepnpp:block/pwr_liner_white"
+  }
+}
