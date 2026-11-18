@@ -225,8 +225,8 @@ Sealing is a yes/no tag, not a percentage. Block names do not represent real att
 - [ ] `0.1.0` 已知会触发 HBM 版本报错，不要上传该版本
 - [ ] 许可证为 MIT，整合包可自由使用
 - [ ] 源码链接填 GitHub 仓库地址，Issues 填其 `/issues`
-- [ ] 许可证改为 MIT 后需重新构建 jar（`bash tools/check_release.sh`），SHA-256 会变化，以新 jar 为准
-- [ ] SHA-256（0.1.2）：`04823d01e076dd7e33f1d43732e711ce29c44ac5ab0680ada2135ceb952dde85`
+- [x] 已按 MIT 重新构建 jar
+- [ ] SHA-256（0.1.2）：`654769a06fe42b1869a9e753bb5fb66f8d1b149823d2a7b93058f746169a0045`
 
 ---
 

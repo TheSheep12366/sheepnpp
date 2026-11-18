@@ -287,7 +287,7 @@ HBM 的辐射引擎用泛洪分区，把“辐射密封方块”当成墙。除�
 
 最终构建：`bash tools/check_release.sh` 已全部通过，产物 `build/libs/sheepnpp-0.1.2.jar`。已从成品确认仅含 Forge/Minecraft 加载依赖、97 份方块状态/物品模型/配方/战利品、58 张贴图；铅衬密封弱抗爆、承重钢构强抗爆不密封、生物屏蔽双防护等标签组合均通过成品检查。
 
-SHA-256：`04823d01e076dd7e33f1d43732e711ce29c44ac5ab0680ada2135ceb952dde85`。
+SHA-256：`654769a06fe42b1869a9e753bb5fb66f8d1b149823d2a7b93058f746169a0045`。
 
 安装新版时移除旧 sheepnpp jar，不能同时放入多个版本。
 
