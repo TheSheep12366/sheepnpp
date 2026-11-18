@@ -18,7 +18,7 @@
 | Game version | 1.20.1 |
 | Version number | 0.1.2 |
 | Release channel | Beta（运行时效果未经游戏内验证，建议先发 Beta） |
-| License | All Rights Reserved（Modrinth 选 "Custom" 并填写 `LicenseRef-All-Rights-Reserved`） |
+| License | MIT（Modrinth 直接选 MIT） |
 | Dependencies | 无必需依赖；NTM-Continuum 不在 mods.toml 声明，Modrinth 依赖栏可不填 |
 
 ---
@@ -223,8 +223,9 @@ Sealing is a yes/no tag, not a percentage. Block names do not represent real att
 - [ ] 至少 3 张截图：RBMK 堆厅、主控室、办公室（需要在游戏里截取）
 - [ ] 描述里的 HBM 效果尚未在游戏内验证，先发 Beta，并在页面保留“未验证”的措辞
 - [ ] `0.1.0` 已知会触发 HBM 版本报错，不要上传该版本
-- [ ] 许可证为 All Rights Reserved；若想允许整合包使用，请在页面说明
-- [ ] 源码 / Issues 链接：目前没有公开仓库，留空即可
+- [ ] 许可证为 MIT，整合包可自由使用
+- [ ] 源码链接填 GitHub 仓库地址，Issues 填其 `/issues`
+- [ ] 许可证改为 MIT 后需重新构建 jar（`bash tools/check_release.sh`），SHA-256 会变化，以新 jar 为准
 - [ ] SHA-256（0.1.2）：`04823d01e076dd7e33f1d43732e711ce29c44ac5ab0680ada2135ceb952dde85`
 
 ---
